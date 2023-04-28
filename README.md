@@ -1,2 +1,2 @@
-# pythonproject
+# Pythonproject
 Academic Purpose
